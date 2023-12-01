@@ -1,0 +1,8 @@
+#caja{
+    width: 400px;
+    height: 400px;
+    background: linear-gradient(135deg, #ff0000 0%, #e17a7a 28%, #64dd66 53%, #7649ca 83%);
+    padding: 30px;
+}
+    
+
